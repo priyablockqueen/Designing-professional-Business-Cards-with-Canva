@@ -1,1 +1,1 @@
-# desining-cards
+# designing-cards
